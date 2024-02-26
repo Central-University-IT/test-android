@@ -4,15 +4,15 @@
 
 ## ТЗ
 
-Необходмио реализовать UI элемента списока офферов.
+Необходимо реализовать UI элемента списка офферов (спецпредложений).
 
 ### Макет
 
 ![макет](../images/figma/offerView.svg)
 
 **Иконка сердца:**
-* small_gray_heart.xml – не в избранном (состаяние передается в публичном методе setLikeButtonIconStatus(isFavorite: Boolean))
-* small_red_fill_heart.xml – в избранном (состаяние передается в публичном методе setLikeButtonIconStatus(isFavorite: Boolean))
+* small_gray_heart.xml – не в избранном (состояние передается в публичном методе setLikeButtonIconStatus(isFavorite: Boolean))
+* small_red_fill_heart.xml – в избранном (состояние передается в публичном методе setLikeButtonIconStatus(isFavorite: Boolean))
 
 Background иконки: R.drawable.like_button_bg
 
@@ -85,7 +85,7 @@ Background иконки: R.drawable.like_button_bg
 
 ## Ожидаемое решение
 
-Необходимо реализовать `OfferView` в соответсвии с макетом, 
+Необходимо реализовать `OfferView` в соответствии с макетом, 
 в том числе реализовать логику внутри публичных методов согласно их описанию (в javaDocs в коде)
 
 (в своей реализации вы можете на свое усмотрение выбрать класс от которого будет наследоваться OfferView,
