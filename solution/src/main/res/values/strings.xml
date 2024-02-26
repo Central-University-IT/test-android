@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="main_screen_title">Спецпредложения</string>
+    <string name="favorite_screen_title">Избранное</string>
+    <string name="offer_info_screen_information_screen">Информация</string>
+
+    <!-- promo_code_view -->
+    <string name="promo_code_view_text">Промокод</string>
+
+    <!-- add_to_favorite_button -->
+    <string name="add_to_favorite_button_text">Добавить в избранное</string>
+
+    <!-- favorites_view -->
+    <string name="favorites_view_title">Избранное</string>
+
+    <!-- offer_view -->
+    <string name="offer_view_cash_back_value_mask">%d%%</string>
+    <string name="offer_view_bundle_hint">Предложение специально для вас</string>
+
+</resources>

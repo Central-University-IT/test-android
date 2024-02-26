@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_gray" >#9A9A9A</color>
+
+    <!-- promo_banner_view -->
+    <color name="promo_banner_view_bg_color">#FFF6D4</color>
+
+    <!-- profile_view -->
+    <color name="profile_view_bg_color">#F2F2F2</color>
+
+    <!--  favorites_view -->
+    <color name="favorite_view_bg_color">#F2F2F2</color>
+
+    <!--  promo_code_view -->
+    <color name="promo_code_view_bg_color">#EBEBEB</color>
+
+    <!-- add_to_favorite_button -->
+    <color name="add_to_favorite_button_bg_color">#93D75D</color>
+
+</resources>
