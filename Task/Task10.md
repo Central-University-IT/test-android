@@ -4,15 +4,15 @@
 
 ## ТЗ
 
-Необходмио реализовать UI элемента "Добавить в избранное" на экране деталей оффера.
+Необходимо реализовать UI элемента "Добавить в избранное" на экране деталей оффера.
 
 ### Макет
 
 ![макет](../images/figma/addToFavoriteView.svg)
 
 Иконка сердца:
-* small_black_heart.xml – не в избранном (состаяние передается в публичном методе setIsFavoriteStatus(isFavorite: Boolean))
-* small_black_fill_heart.xml – в избранном (состаяние передается в публичном методе setIsFavoriteStatus(isFavorite: Boolean))
+* small_black_heart.xml – не в избранном (состояние передается в публичном методе setIsFavoriteStatus(isFavorite: Boolean))
+* small_black_fill_heart.xml – в избранном (состояние передается в публичном методе setIsFavoriteStatus(isFavorite: Boolean))
 
 **Формат текста**
 
@@ -39,7 +39,7 @@
 
 ## Ожидаемое решение
 
-Необходимо реализовать `AddToFavoriteView` в соответсвии с макетом,
+Необходимо реализовать `AddToFavoriteView` в соответствии с макетом,
 в том числе реализовать логику внутри публичных методов согласно их описанию (в javaDocs в коде)
 
 (в своей реализации вы можете на свое усмотрение выбрать класс от которого будет наследоваться AddToFavoriteView,
