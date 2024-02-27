@@ -30,6 +30,8 @@ jobs:
           cmdline-tools-version: 11076708
           log-accepted-android-sdk-licenses: false
 
+      - run: sudo sdkmanager 'platforms;android-34' 'build-tools;34.0.0'
+
       - run: ./gradlew verifyPaparazziDebug --no-daemon
         continue-on-error: true
 
