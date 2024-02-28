@@ -9,7 +9,7 @@ import com.example.prod_playground.core.api.domain.repositories.UserInfoReposito
 import com.example.prod_playground.core.impl.domain.BannerRepositoryImpl
 import com.example.solution.domain.BundlesRepositoryImpl
 import com.example.prod_playground.core.impl.domain.DefaultJsonProvider
-import com.example.prod_playground.core.impl.domain.FavoritesRepositoryImpl
+import com.example.solution.domain.FavoritesRepositoryImpl
 import com.example.prod_playground.core.impl.domain.OffersRepositoryImpl
 import com.example.prod_playground.core.impl.domain.OperationsRepositoryImpl
 import com.example.prod_playground.core.impl.domain.UserInfoRepositoryImpl
