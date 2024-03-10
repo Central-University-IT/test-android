@@ -46,3 +46,4 @@ jobs:
           path: ${{ steps.junit.outputs.result_file }}
           if-no-files-found: error
           compression-level: 0
+
