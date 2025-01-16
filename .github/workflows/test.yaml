@@ -37,7 +37,7 @@ jobs:
 
       - uses: Central-University-IT/junit-action@main
         with:
-          files: app/build/test-results/testDebugUnitTest/TEST-*.xml
+          files: test-solution/build/reports/tests/testDebugUnitTest/TEST-*.xml
         id: junit
 
       - uses: actions/upload-artifact@v4.0.0
